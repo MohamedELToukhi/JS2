@@ -1,0 +1,444 @@
+.clr
+{
+    clear: both;
+}
+
+
+.navbar
+{
+    background-color: transparent;
+}
+
+.nav-link
+{
+  font-weight: bold;
+    padding: 20px;
+}
+
+.firstsec
+{
+    
+    text-align: center;
+    padding-top: 150px;
+}
+
+.home
+{
+    background-image: url(transparent-bg.png);
+    background-size: cover;
+    
+     position: relative;
+    overflow: hidden;
+}
+
+
+
+.topright
+{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: 30%;
+}
+
+.topleft
+{
+    position: absolute;
+    top: 0px;
+    left: -180px;
+    width: 35%;
+   
+    
+}
+
+.papers
+{
+    position: absolute;
+    bottom: 0px;
+    left: -250px;
+    width: 45%;
+    
+}
+
+.pen1
+{
+    position: absolute;
+    bottom: 150px;
+    left: 80px;
+    width: 20%;
+    
+}
+
+.pen2
+{
+    position: absolute;
+    bottom: 350px;
+    left: 100px;
+    width: 10%;
+    
+}
+
+.pen3
+{
+  position: relative;
+    left: 900px;
+    bottom: 250px;
+   
+    
+}
+.botright
+{
+    position: absolute;
+    bottom: 250px;
+    right:-200px;
+    width: 35%;
+}
+
+.btn2
+{
+    background: #4caf50;
+    color: white;
+    font-size: 12;
+    width: 11%;
+    height: 5%;
+
+    border: none;
+    margin-top: 40px;
+    font-weight: bold;
+}
+
+.ourservice
+{
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 100px;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.border1
+{
+    border-top: solid 1px;
+    width: 200px;
+    margin: auto;
+    color: gainsboro;
+    
+  
+
+}
+
+.border2
+{
+    border-top: solid 5px;
+    width: 66.6666px;
+    color: greenyellow;
+    position: relative;
+     margin: auto;
+    top: -3px;
+    margin-bottom: 50px;
+    padding: 10px;
+    
+}
+
+.sectwo
+{
+    padding: 100px;
+}
+.sectwo i 
+{
+    padding: 20px;
+}
+.sectwo p
+{
+    color: gray;
+}
+
+
+.hover1
+{
+    transition-property: all;
+    transition-duration: .7s;
+    
+}
+
+.hover1:hover
+{
+   
+    background-color: tomato;
+    border-radius: 5px;
+}
+
+
+
+.hover2
+{
+    transition-property: all;
+    transition-duration: .7s;
+    
+}
+
+.hover2:hover
+{
+   
+    background-color: greenyellow;
+    border-radius: 5px;
+}
+
+
+.hover3
+{
+    transition-property: all;
+    transition-duration: .7s;
+    
+}
+
+.hover3:hover
+{
+   
+    background-color: skyblue;
+    border-radius: 5px;
+}
+
+.btn3
+{
+    background-color: transparent;
+    color: white;
+    font-size: 12;
+    width: 11%;
+    height: 12%;
+
+    border: solid 2px;
+    margin-top: 40px;
+    font-weight: bold;
+}
+.layer2
+{
+    background-image: url(parallax1.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+    
+}
+
+.thirdsec
+{
+    width: 100%;
+    height: 400px;
+    margin-bottom: 100px;
+    color: white;
+}
+
+.layer2 .thirdsec h5
+{
+    padding-top: 100px;
+    font-weight: lighter;
+    
+}
+
+.layer2 .thirdsec h2
+{
+    font-size: 55px;
+    font-weight: lighter;
+}
+
+
+.ourwork
+{
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 100px;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.border3
+{
+    border-top: solid 1px;
+    width: 200px;
+    margin: auto;
+    color: gainsboro;
+    
+  
+
+}
+
+.border4
+{
+    border-top: solid 5px;
+    width: 66.6666px;
+    color: greenyellow;
+    position: relative;
+     margin: auto;
+    top: -3px;
+    margin-bottom: 50px;
+    padding: 10px;
+    
+}
+
+
+.cbp-l-filters .cbp-filter-item
+{
+    cursor: pointer;
+    margin: 0 .2rem;
+    display: inline-block;
+}
+
+.work
+{
+     position: relative;
+    overflow: hidden;
+}
+.cbp-item-wrapper {
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+
+
+.cbp-ready .cbp-item {
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.cbp .cbp-item {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.cbp-item {
+    display: inline-block;
+    margin: 0 10px 20px 0;
+}
+
+.cbp {
+    position: relative;
+    margin: 0 auto;
+    z-index: 1;
+    height: 400px;
+}
+
+.nav-tabs{
+    border-bottom: none
+        
+}
+.nav-tabs .nav-link{
+    border-radius: 20px;
+    border:1px solid rgba(0,0,0,0.1)
+        
+}
+
+
+
+.nav-tabs .nav-item.show .nav-link, .nav-tabs .nav-link.active
+{
+    
+    background-color: tomato;
+    color: #fff;
+}
+
+
+a 
+{
+    color: gray;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.fifthsec
+{
+background-image: url(counter.jpg);
+background-size:cover;
+background-attachment: fixed;
+
+}
+
+.fifth
+{
+     text-align: center;
+    font-size: 24px;
+    padding-top: 100px;
+    margin-bottom: 50px;
+    height: 400px;
+     margin-top: 100px;
+}
+
+
+.client
+{
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 100px;
+    padding: 20px;
+    font-size: 40px;
+}
+
+.border5
+{
+    border-top: solid 1px;
+    width: 300px;
+    margin: auto;
+    color: gainsboro;
+    
+  
+
+}
+
+.border6
+{
+    border-top: solid 5px;
+    width: 100px;
+    color: greenyellow;
+    position: relative;
+     margin: auto;
+    top: -3px;
+    margin-bottom: 50px;
+    padding: 10px;
+    
+}
+    
+.layer3
+{
+     background-color: #f6f6f6;  
+    height: 600px;
+ }
+.test3
+{
+    width: 100px;
+    
+    position: absolute;
+    bottom: -80px;
+    left: 150px;
+    
+    
+}
+
+.card {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 1rem;
+    
+    
+}
+
+
+.comma
+{
+    position: absolute;
+   left: 180px;
+    top: -25px;
+    overflow: hidden;
+    
+}
+
+.card-title
+{
+    position: absolute;
+    bottom: -120px;
+    left: 160px;
+}
